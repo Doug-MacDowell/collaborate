@@ -1,4 +1,4 @@
-# Collaborate - A Question and Answer Site
+# Collaborate - Question & Answer Site
 
 This is a basic collaboration site built using Rails 4.0.2.
 
